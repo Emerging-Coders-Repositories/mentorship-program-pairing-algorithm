@@ -1,6 +1,8 @@
 # Mentor Matching Program
 
-This project implements a mentor-mentee matching system for educational or professional mentorship programs. It uses an algorithm to optimally pair mentors with mentees based on various criteria and preferences.
+This project implements a mentor-mentee matching system for Northwestern University's Emerging Coders Student Organinazation. If you are unaware about Emerging Coders, here is some background about us:
+
+Emerging Coders is a community for FGLI (First-generation, Low-income) students who are interested in Tech. Our purpose is to enable students in the club improve their skills (e.g., coding projects, networking etc.), provide mentorship and resources throughout your college experience, and to create meaningful projects.
 
 ## Features
 
