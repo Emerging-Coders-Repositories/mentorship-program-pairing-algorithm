@@ -53,24 +53,24 @@ A virtual environment (.venv) is set up at the root of the project.
 
 1. Ensure your input data is in a CSV file named `mentor-program-responses.csv` in the `data/` directory.
 
-2. Run the main script:
+2. Run the `pairing_matching` script:
 
    ```
-   python main.py
+   python pairing_matching.py
    ```
 
 3. The program will generate a `mentorship_matches.csv` file in the `data/` directory with the matching results.
 
 ## Project Structure
 
-- `main.py`: The main script containing all the logic for data parsing, matching, and output generation.
+- `pairing_matching`: The main script containing all the logic for data parsing, matching, and output generation.
 - `data/`: Directory containing input and output CSV files.
 - `requirements.txt`: List of Python package dependencies.
 - `.venv/`: Virtual environment directory.
 
 ## Customization
 
-You can modify the `calculate_similarity` function in `main.py` to adjust the weighting of different factors in the matching process.
+You can modify the `calculate_similarity` function in `pairing_matching.py` to adjust the weighting of different factors in the matching process.
 
 ## Contributing
 
